@@ -29,5 +29,6 @@
   "window.zoomLevel": 1,
   "editor.minimap.enabled": false,
   "editor.fontLigatures": false,
+  "editor.cursorSmoothCaretAnimation": "on",
   "files.autoSave": "onFocusChange"
 }
